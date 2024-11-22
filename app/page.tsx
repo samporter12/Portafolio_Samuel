@@ -1,8 +1,14 @@
-
+import CoverParticles from "@/components/cover-particles";
+import TransitionPage from "@/components/transition-page";
+import Image from "next/image";
 export default function Home() {
   return (
-    <div className="flex justify-center items-center w-screen h-screen bg-cyan-200">
-      <h1 className="text-4xl text-cyan-800 front-extravold">My Portfolio</h1>
-    </div>
-  );
+    <main>
+      <TransitionPage/>
+      <div className="flex min-h-[100vh h-full bg-no-repeat bg-gradient-cover">
+        <CoverParticles />
+      </div>
+
+    </main>
+  ); 
 }
