@@ -2,6 +2,7 @@
 import Image from 'next/image'
 import { TypeAnimation } from 'react-type-animation'
 
+{/* eslint-disable-next-line react/no-unescaped-entities */}
 
 const Introduction = () => {
     return (
