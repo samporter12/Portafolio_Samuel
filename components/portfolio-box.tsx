@@ -7,13 +7,12 @@ interface PortfolioBoxProps {
         title: string
         image: string
         urlGithub: string
-        urlAzure: string
     }
 }
 
 const PortfolioBox = (props: PortfolioBoxProps) => {
     const { data } = props
-    const { id, title, image, urlGithub, urlAzure } = data
+    const { id, title, image, urlGithub } = data
 
     return (
         <div
