@@ -30,16 +30,16 @@ const Introduction = () => {
                     </h1>
 
                     <p className="mx-auto mb-2 text-xl md:text-xl md:mx-0 md:mb-8">
-                    Hello everyone, Im Sam and Im very excited to know that you read this, now a little information about me, I live in Colombia, I am a university student very pleased to work with any of your guys or now talk to you. I have great ability to communicate with other people and work as a team, I have a B2 level in English and I would like to learn more and more for this wonderful job that is software developer.
+                    Hello everyone, Im Sam and Im very excited to know that you read this, now a little information about me, I live in Colombia, I am a university student. I have great ability to communicate with other people and work as a team and I have a B2 level in English and I would like to learn more and more for this.
                     </p>
 
                     <div className="flex items-center justify-center gap-3 md:justify-start md:gap-10">
-                        <a href="/projects" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
-                            Ver proyectos
+                        <a href="/portfolio" className="px-3 py-2 my-2 transition-all border-2 cursor-pointer text-md w-fit rounded-xl hover:shadow-xl hover:shadow-white/50">
+                            Proyects
                         </a>
-                        <a href="/contact"
+                        <a href="https://join.skype.com/invite/aTZBMQFCEdkQ"
                             className="px-3 py-2 my-5 transition-all border-2 cursor-pointer text-md w-fit text-secondary border-secondary rounded-xl hover:shadow-xl hover:shadow-secondary" >
-                            Contacta conmigo
+                            Talk to Me
                         </a>
                     </div>
                 </div>
