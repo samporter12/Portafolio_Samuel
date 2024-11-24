@@ -1,3 +1,5 @@
+
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import AvatarServices from "@/components/avatar-services";
 import CircleImage from "@/components/circle-image";
 import SliderServices from "@/components/slider-services";

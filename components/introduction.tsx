@@ -12,13 +12,13 @@ const Introduction = () => {
                     <h1 className="mb-5 text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-10">On the way to a<br />
                         <TypeAnimation
                             sequence={[
-                                'optimized future',
+                                "optimized future",
                                 1000,
-                                'guided future',
+                                "guided future",
                                 1000,
-                                'automated future',
+                                "automated future",
                                 1000,
-                                'happy future',
+                                "happy future",
                                 1000
                             ]}
                             wrapper="span"
